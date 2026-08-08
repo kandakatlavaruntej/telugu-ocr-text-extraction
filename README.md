@@ -223,19 +223,19 @@ The application provides a simple interface where users can:
 
 ### OCR Interface
 
-![OCR Interface](screenshots/interface.png)
+![OCR Interface](screenshots/pdf_upload_interface.png)
 
 ### Code Output
 
-![Code Output](screenshots/code_output.png)
+![Code Output](screenshots/ocr_code_output.png)
 
 ### Telugu to English Translation
 
-![Telugu to English Translation](screenshots/telugu_to_english_translator.png)
+![Telugu to English Translation](screenshots/telugu_to_english_translation.png)
 
 ### PDF Upload
 
-![PDF Upload](screenshots/uploading_the_file.png)
+![PDF Upload](screenshots/ocr_gradio_interface.png)
 
 ---
 
